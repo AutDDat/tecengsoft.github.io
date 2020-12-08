@@ -39,7 +39,7 @@ int main () {
 	printf ("\t*================================================================*\n");
 	printf ("\t|       0 - SAIR DO GAME                                         |\n");
 	printf ("\t|       1 - JOGAR TODOS OS NIVEIS                                |\n");
-	printf ("\t|       2 - JOGAR NIVEL FACIL                                    |\n");                         //SELEÇAO DOS NIVEIS    
+	printf ("\t|       2 - JOGAR NIVEL FACIL                                    |\n");                         //SELEÃ‡AO DOS NIVEIS    
 	printf ("\t|       3 - JOGAR NIVEL MEDIO                                    |\n");
 	printf ("\t|       4 - JOGAR NIVEL DIFICIL                                  |\n");
 	printf ("\t|       5 - INSTRUCOES DO JOGO                                   |\n");
@@ -120,7 +120,7 @@ int main () {
     getchar();system ("cls");                                                      
     
     
-    // 1º Questão F   
+    // 1Âº QuestÃ£o F   
     
     
     system("color 1F");
@@ -150,7 +150,7 @@ int main () {
     }
     
     
-    // 2º Questão F
+    // 2Âº QuestÃ£o F
     
     
     printf ("\t\t----------------------------------\n");
@@ -182,7 +182,7 @@ int main () {
 	}
 	
 	
-	// 3º Questão F
+	// 3Âº QuestÃ£o F
 	
 	
 	printf ("\t\t----------------------------------\n");
@@ -214,7 +214,7 @@ int main () {
     }
     
     
-    // 4º Questão F
+    // 4Âº QuestÃ£o F
     
     
     printf ("\t\t----------------------------------\n");
@@ -246,7 +246,7 @@ int main () {
 	}
     
     
-    // 5° Questão F  
+    // 5Â° QuestÃ£o F  
     
     
     printf ("\t\t----------------------------------\n");
@@ -316,18 +316,18 @@ int main () {
     getchar();system ("cls");                                                      
     
     
-    // 1º Questão M
+    // 1Âº QuestÃ£o M
     
     
     system("color 1F");
  	printf ("\t\t*--------------------------------*\n");
 	printf ("\t\t|  Pergunta n. %.2d - Nivel Medio  |\n",contadorperguntam++);
 	printf ("\t\t*--------------------------------*\n\n");
-	printf ("\t\tQual alternativa NAO se refere a \n\t\ttdefiniçao de pronto\n\n");
+	printf ("\t\tQual alternativa NAO se refere a \n\t\ttdefiniÃ§ao de pronto\n\n");
 	printf ("\t\t-----------------------------------------\n");
 	printf ("\t\tA) Define atividades executadas para efetuar uma entrega.\n");
 	printf ("\t\tB) Deve ser seguido para as entregas.\n");
-	printf ("\t\tC) Define como as histórias devem ser descritas.\n");
+	printf ("\t\tC) Define como as histÃ³rias devem ser descritas.\n");
 	printf ("\t\tD) Compreende as etapas do desenvolvimento.\n");
 	printf ("\t\t-----------------------------------------\n");
 	printf ("\t\tResposta ?  ");
@@ -346,7 +346,7 @@ int main () {
 	}
 	
 	
-	// 2º Questão M
+	// 2Âº QuestÃ£o M
 	
 	
 	printf ("\t\t----------------------------------\n");
@@ -355,12 +355,12 @@ int main () {
 	printf ("\t\t*--------------------------------*\n");
 	printf ("\t\t|  Pergunta n. %.2d - Nivel Medio  |\n",contadorperguntam++);
 	printf ("\t\t*--------------------------------*\n\n");
-	printf ("\t\tNa automaçao de testes, qual deve \n\t\tser o tipo de testes com maior numero \n\t\te area de cobertura?\n\n");
+	printf ("\t\tNa automaÃ§ao de testes, qual deve \n\t\tser o tipo de testes com maior numero \n\t\te area de cobertura?\n\n");
 	printf ("\t\t---------------------------------------\n");
-    printf ("\t\tA) Testes de Serviço\n");
+    printf ("\t\tA) Testes de ServiÃ§o\n");
 	printf ("\t\tB) Testes de Usabilidade\n");
-	printf ("\t\tC) Testes Unitários\n");
-	printf ("\t\tD) Testes Exploratórios\n");
+	printf ("\t\tC) Testes UnitÃ¡rios\n");
+	printf ("\t\tD) Testes ExploratÃ³rios\n");
 	printf ("\t\t----------------------------------\n");
 	printf ("\t\tResposta ?  ");
 	scanf ("%s",&resposta);
@@ -378,7 +378,7 @@ int main () {
 	}
 	
 	
-	// 3º Questão M
+	// 3Âº QuestÃ£o M
 	
 	
 	printf ("\t\t----------------------------------\n");
@@ -389,8 +389,8 @@ int main () {
 	printf ("\t\t*--------------------------------*\n\n");
 	printf ("\t\tQuais desses NAO e um dos valores base do Scrum ?\n\n");
     printf ("\t\tA) Transparencia\n");
-	printf ("\t\tB) Inspeção\n");
-	printf ("\t\tC) Adaptação\n");
+	printf ("\t\tB) InspeÃ§Ã£o\n");
+	printf ("\t\tC) AdaptaÃ§Ã£o\n");
 	printf ("\t\tD) Rapidez\n");
 	printf ("\t\t----------------------------------\n");
 	printf ("\t\tResposta ?  ");
@@ -409,7 +409,7 @@ int main () {
 	}
 	
 	
-	// 4º Questao M
+	// 4Âº Questao M
 	
 	
 	printf ("\t\t----------------------------------\n");
@@ -420,7 +420,7 @@ int main () {
 	printf ("\t\t*--------------------------------*\n\n");
 	printf ("\t\tNo Scrum, ha tres papeis importantes: \n\t\tProduct Owner, Team e Scrum Master \n\t\tE responsabilidade do Product Owner: \n\n");
 	printf ("\t\t----------------------------------\n");
-	printf ("\t\tA) Determinar como serao a gestao e a organizaçao dos times.\n"); 
+	printf ("\t\tA) Determinar como serao a gestao e a organizaÃ§ao dos times.\n"); 
 	printf ("\t\tB) Desenvolver funcionalidades do projeto.\n");
 	printf ("\t\tC) Ensinar Scrum a todos os envolvidos no projeto.\n");
 	printf ("\t\tD) Assegurar que a funcionalidade mais valiosa sera produzida primeiro.\n");
@@ -441,7 +441,7 @@ int main () {
     }
 	
 	
-  // 5° Questão M  
+  // 5Â° QuestÃ£o M  
     
     
     printf ("\t\t----------------------------------\n");
@@ -450,12 +450,12 @@ int main () {
 	printf ("\t\t*-------------------------------*\n");
 	printf ("\t\t|  Pergunta n. %.2d - Nivel Medio |\n",contadorperguntam++);
 	printf ("\t\t*-------------------------------*\n\n");
-	printf ("\t\tA Sprint e considerada o coração do Scrum. \n\t\tUma nova Sprint inicia-se imediatamente apos \n\t\ta conclusao da Sprint anterior. Durante a Sprint...\n\n");
+	printf ("\t\tA Sprint e considerada o coraÃ§Ã£o do Scrum. \n\t\tUma nova Sprint inicia-se imediatamente apos \n\t\ta conclusao da Sprint anterior. Durante a Sprint...\n\n");
 	printf ("\t\t---------------------------------------\n");
-	printf ("\t\tA) A composiçao da equipe de desenvolvimento muda constantemente.\n"); 
+	printf ("\t\tA) A composiÃ§ao da equipe de desenvolvimento muda constantemente.\n"); 
 	printf ("\t\tB) As metas de qualidade podem ser reduzidas para dar mais agilidade ao desenvolvimento\n");
 	printf ("\t\tC) O escopo pode ser clarificado e renegociado entre o PO e a equipe Dev\n");
-	printf ("\t\tD) Sao permitidas as definiçoes de mudanças que podem afetar o seu objetivo\n");
+	printf ("\t\tD) Sao permitidas as definiÃ§oes de mudanÃ§as que podem afetar o seu objetivo\n");
 	printf ("\t\t---------------------------------------\n");
 	printf ("\t\tResposta ?  ");
 	scanf ("%s",&resposta);
@@ -513,7 +513,7 @@ int main () {
     getchar();system ("cls");                                                       
     
     
- 	// 1º Questão D
+ 	// 1Âº QuestÃ£o D
 	
 	 
 	system("color 1F");
@@ -522,7 +522,7 @@ int main () {
 	printf ("\t\t*----------------------------------*\n\n");
 	printf ("\t\tNo Scrum, as entregas de partes funcionais \n\t\tdo projeto sao divididas em ciclos, geralmente compreendidos \n\t\tno periodo de 1 a 4 semanas. Estes ciclos podem ser chamados de:\n\n");
     printf ("\t\t-----------------------------------------\n");
-	printf ("\t\tA) Iteraçoes e sprint\n");
+	printf ("\t\tA) IteraÃ§oes e sprint\n");
 	printf ("\t\tB) Reuniao de planejamento e backlog\n");
 	printf ("\t\tC) Periodo de entrega e reuniao de revisao\n");
 	printf ("\t\tD) Reuniao de planejamento e sprint\n");
@@ -543,7 +543,7 @@ int main () {
 	}
 	
 	
-	//  2º Questão D
+	//  2Âº QuestÃ£o D
 	
 	
 	printf ("\t\t----------------------------------\n");
@@ -575,7 +575,7 @@ int main () {
 	}
 	
 	
-	// 3º Questão D
+	// 3Âº QuestÃ£o D
 	
 	
 	printf ("\t\t----------------------------------\n");
@@ -584,7 +584,7 @@ int main () {
 	printf ("\t\t*--------------------------------*\n");
 	printf ("\t\t|  Pergunta n. %.2d - Nivel Dificil  |\n",contadorperguntad++);
 	printf ("\t\t*--------------------------------*\n\n");
-	printf ("\t\tDentre os papeis da metodologia agil Scrum \n\t\testa o Scrum Master. NAO se inclui entre suas funçoes:\n\n");
+	printf ("\t\tDentre os papeis da metodologia agil Scrum \n\t\testa o Scrum Master. NAO se inclui entre suas funÃ§oes:\n\n");
 	printf ("\t\t---------------------\n");
 	printf ("\t\tA) Determinar para o time de desenvolvimento como os itens de backlog devem ser convertidos em potenciais funcionalidades para entrega\n"); 
 	printf ("\t\tB) Remover impedimentos para o progresso do time dev.\n");
@@ -607,7 +607,7 @@ int main () {
 	}
 	
 	
-	// 4º Questão D
+	// 4Âº QuestÃ£o D
 	
 	
 	printf ("\t\t----------------------------------\n");
@@ -618,8 +618,8 @@ int main () {
 	printf ("\t\t*--------------------------------*\n\n");
 	printf ("\t\tNo contexto das regras do SCRUM, e correto afirmar:\n\n");
 	printf ("\t\t----------------------------------\n");
-    printf ("\t\tA) Durante a realização do Sprint, o Backlog pode ser modificado por qualquer um dos elementos da equipe\n");
-	printf ("\t\tB) Modificação no Backlog e prerrogativa do Scrum Master, quando achar necessario, em qualquer momento no decorrer do Sprint\n");
+    printf ("\t\tA) Durante a realizaÃ§Ã£o do Sprint, o Backlog pode ser modificado por qualquer um dos elementos da equipe\n");
+	printf ("\t\tB) ModificaÃ§Ã£o no Backlog e prerrogativa do Scrum Master, quando achar necessario, em qualquer momento no decorrer do Sprint\n");
 	printf ("\t\tC) O foco na produtividade e o principal valor no Scrum\n");
 	printf ("\t\tD) O Sprint deve ser realizado num periodo nao superior a 30 dias e ter um objetivo claro, baseado no sprint backlog\n");
 	printf ("\t\t----------------------------------\n");
@@ -639,7 +639,7 @@ int main () {
 	}
  
 
-  	//  5° Questão D  
+  	//  5Â° QuestÃ£o D  
     
       
     printf ("\t\t----------------------------------\n");
@@ -648,7 +648,7 @@ int main () {
 	printf ("\t\t*-----------------------------------*\n");
 	printf ("\t\t|  Pergunta n. %.2d - Nivel Dificil |\n",contadorperguntad++);
 	printf ("\t\t*-----------------------------------*\n\n");
-	printf ("\t\tO papel do SCRUM que tem como funçao primaria n\t\tremover qualquer impedimento a capacidade de uma equipe \n\tde entregar o objetivo de um sprint e o:\n\n");
+	printf ("\t\tO papel do SCRUM que tem como funÃ§ao primaria n\t\tremover qualquer impedimento a capacidade de uma equipe \n\tde entregar o objetivo de um sprint e o:\n\n");
 	printf ("\t\t--------------------------------\n");
 	printf ("\t\tA) Scrum Master\n"); 
 	printf ("\t\tB) Master PO\n");
@@ -720,19 +720,19 @@ int main () {
       
     system("cls");                                                                  
     printf ("\n\n\n\n\n\tPROGRAMADOR.\n\n");
-	printf ("\tGENILSON SILVA DA CONCEIÇAO\n\n");
+	printf ("\tGENILSON SILVA DA CONCEIÃ‡AO\n\n");
 	
 	printf ("\n\n\n\n\n\tCOLABORADORES.\n\n");
     printf ("\tITALO PINHEIRO DA SILVA\n\n");
 	printf ("\tANTONIO CLAUDIO DE JESUS SANTOS FILHO\n\n");
 	printf ("\n\n\n\n\n\tEQUIPE.\n\n");
-	printf ("\tGENILSON SILVA DA CONCEIÇAO\n\n");
+	printf ("\tGENILSON SILVA DA CONCEIÃ‡AO\n\n");
 	printf ("\tITALO PINHEIRO DA SILVA\n\n");
 	printf ("\tANTONIO CLAUDIO DE JESUS SANTOS FILHO\n\n");
 	printf ("\n");
 	printf ("\n\n\n\n\n\tUNIVERSIDADE SALVADOR\n\n");
 	printf ("\n\n\n\n\n\tDOCENTE.\n\n");
-	printf ("\tANTONIO BRANDÃO\n\n");
+	printf ("\tANTONIO BRANDÃƒO\n\n");
 	
 	getchar();printf ("\tEnter para retornar ao menu.");
     getchar();system("cls");                                                        
@@ -830,6 +830,8 @@ printf ("\t\t********************************************\n\n");
 	system ("cls");                                                                
 	goto dificuldade;
     }
+	
+
     printf ("\n\n");
     system ("PAUSE");
     return (0);
